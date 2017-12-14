@@ -25,11 +25,11 @@ to continue.
 
 This second shot of the mySQL database and products table shows that 10 wands 
 have been removed.
-![products after purchase - 10 wands gone]()images/after-wand-purchase.png)
+![products after purchase - 10 wands gone](images/after-wand-purchase.png)
 
 If the user selects "y" to continue, then the list of products appears again
 minus the the quantity of the item the user just purchased.
-![after selecting y](/images/select-y-to-continue.png)
+![after selecting y](/images/select-y-to-t pcontinue.png)
 
 If the user selects "n" to stop, then they are thanked for shopping and the app stops.
 ![after selecting n]"(/images/select_n_to_stop.png)
