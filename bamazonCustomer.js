@@ -146,7 +146,7 @@ function endShopping() {
  
 		var confirmPlay = response.letter;
 		if (confirmPlay === "n") {
-			console.log("Thanks for getting all of your Hogwarts needs at Bamazon!");
+			console.log("Thanks for getting all your Hogwarts needs at Bamazon!");
 			process.exit(0);
 		}
 		else if (confirmPlay === "y") {
