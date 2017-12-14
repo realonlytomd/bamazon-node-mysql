@@ -21,7 +21,7 @@ displays if there are enough available, and what the total price is.
 Then the user is prompted if they wish to continue.
 Or if there isn't enough available, then the user is also prompted if they wish
 to continue.
-![Continue?](/images/after_2nd_prompt_selection.png)
+![Continue?](/images/after-10wand-buy.png)
 
 This second shot of the mySQL database and products table shows that 10 wands 
 have been removed.
@@ -29,7 +29,7 @@ have been removed.
 
 If the user selects "y" to continue, then the list of products appears again
 minus the the quantity of the item the user just purchased.
-![after selecting y](/images/select_y_to_continue.png)
+![after selecting y](/images/select-y-to-continue.png)
 
 If the user selects "n" to stop, then they are thanked for shopping and the app stops.
 ![after selecting n]"(/images/select_n_to_stop.png)
